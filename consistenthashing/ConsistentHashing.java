@@ -1,7 +1,7 @@
 package consistenthashing;
 
-import models.Node;
-import models.Request;
+import consistenthashing.Node;
+import consistenthashing.Request;
 
 import java.util.List;
 import java.util.Map;
