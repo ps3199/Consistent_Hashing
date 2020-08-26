@@ -1,0 +1,5 @@
+package consistenthashing;
+
+class Node {
+  
+}
